@@ -1,0 +1,13 @@
+{
+    "students": [
+      {
+        "rollNo": "1",
+        "fullName": "John Doe",
+        "class": "10",
+        "birthDate": "2005-06-15",
+        "address": "123 Main St",
+        "enrollmentDate": "2023-01-10"
+      }
+    ]
+  }
+  
